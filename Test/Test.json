@@ -9,12 +9,12 @@
         "type": 101
     },
     {
-        "name": "📺BL",
+        "name": "🍿Emby",
         "version": 1,
-        "remark": "🍃豆儿出品，不属精品！仅供测试",
-        "webSite": "douer",
-        "codeID": "rsjzUDRYZ731POQNKUy5bJNiC62nWFhu",
-        "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/bl.txt",
+        "remark": "🍃豆儿出品，不属精品！",
+        "webSite": "https://emby.media",
+        "codeID": "RisjxK6E95fxWrMpt7VoyQCvlpVVHO1I",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/emby.txt",
         "type": 101
     }
 ]
