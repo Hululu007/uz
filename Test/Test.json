@@ -17,5 +17,14 @@
         "env": "Emby服务器地址##如：http://192.168.1.100:8096&&Emby访问令牌##API访问token&&Emby用户ID##用户唯一标识&&Emby设备ID##设备唯一标识",
         "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/emby.txt",
         "type": 101
+    },
+    {
+        "name": "🍿Alist",
+        "version": 1,
+        "remark": "🍃豆儿出品，不属精品！自行修改自己的AList主页地址",
+        "webSite": "https://download.avemujica.org",
+        "codeID": "zVNBdA4sIPTUAjuzl3qIJHc7LwfNbJeO",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/alist.txt",
+        "type": 101
     }
 ]
