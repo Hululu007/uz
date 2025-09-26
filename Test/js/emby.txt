@@ -2,8 +2,8 @@
 
 //@name:🍿Emby
 //@webSite:https://emby.media
-//@version:1
-//@remark:🍃豆儿出品，不属精品！
+//@version:2
+//@remark:🍃豆儿出品，不属精品！仅供测试！请使用不限制客户端的账号测试，封号概不负责！
 //@codeID:RisjxK6E95fxWrMpt7VoyQCvlpVVHO1I
 //@env:Emby服务器地址##如：http://192.168.1.100:8096&&Emby访问令牌##API访问token&&Emby用户ID##用户唯一标识&&Emby设备ID##设备唯一标识
 

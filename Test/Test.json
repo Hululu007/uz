@@ -10,8 +10,8 @@
     },
     {
         "name": "🍿Emby",
-        "version": 1,
-        "remark": "🍃豆儿出品，不属精品！",
+        "version": 2,
+        "remark": "🍃豆儿出品，不属精品！仅供测试！请使用不限制客户端的账号测试，封号概不负责！",
         "webSite": "https://emby.media",
         "codeID": "RisjxK6E95fxWrMpt7VoyQCvlpVVHO1I",
         "env": "Emby服务器地址##如：http://192.168.1.100:8096&&Emby访问令牌##API访问token&&Emby用户ID##用户唯一标识&&Emby设备ID##设备唯一标识",
@@ -29,10 +29,10 @@
     },
     {
         "name": "🎵GD音乐台",
-        "version": 1,
+        "version": 2,
         "remark": "🍃豆儿出品，不属精品！仅供测试！所有内容均来自GD音乐台 music.gdstudio.xyz",
         "webSite": "https://music.gdstudio.xyz/",
-        "codeID": "oTAeIEmElWmv5riOD7KMndFFzl29upjR",
+        "codeID": "cjLB3xr3cljHcHxC4ce2ywq3a89SGJT0",
         "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/gdstudio.txt",
         "type": 101
     }
