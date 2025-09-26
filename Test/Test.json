@@ -1,0 +1,11 @@
+[
+    {
+        "name": "酷我听书",
+        "version": 1,
+        "remark": "🍃豆儿出品，不属精品！",
+        "webSite": "http://tingshu.kuwo.cn",
+        "codeID": "USdWmrhBwHEAElFD428HKfByc0WbhzTw",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/kwts.txt",
+        "type": 101
+    }
+]
