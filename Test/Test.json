@@ -7,5 +7,15 @@
         "codeID": "GAH7lICMJ4DRIRzTHx9h0rMkFi7pA3fP",
         "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/bixin.txt",
         "type": 101
+    },
+    {
+        "name": "豆哔",
+        "version": 1,
+        "webSite": "doubi",
+        "remark": "🍃豆儿出品，不属精品！",
+        "codeID": "IOiLOyaPgnVlpWKfKSlPRuTD3OMoRDLX",
+        "env": "bili_cookie##bili_cookie 用于获取个性化推荐和高清视频",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/doubi.txt",
+        "type": 101
     }
 ]
