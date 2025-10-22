@@ -10,12 +10,22 @@
     },
     {
         "name": "豆哔",
-        "version": 7,
+        "version": 8,
         "webSite": "doubi",
         "remark": "🍃豆儿出品，不属精品！内容来自网络 仅供学习测试！ DASH格式暂无声音",
-        "codeID": "uxyfZxVvcFSoRuX97V0T9Mf2oUHwELHw",
+        "codeID": "JSHVGWRCW4N3BRjpAH8ilxUA0zjNrSnK",
         "env": "bili_cookie##bili_cookie 用于获取个性化推荐和高清视频",
         "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/doubi.txt",
+        "type": 101
+    },
+    {
+        "name": "PanSou",
+        "version": 1,
+        "webSite": "https://so.252035.xyz",
+        "remark": "🍃豆儿出品，不属精品！",
+        "codeID": "R2WOs8mQ27qJZrmlp1l7ti3ObaazJ320",
+        "env": "PanSou网盘类型##留空=全部,可选:baidu/aliyun/quark/tianyi/uc/caiyun/123pan/115/xunlei/pikpak,多个用逗号分隔&&PanSou数据来源##留空=all(全部),可选:tg(仅TG)/plugin(仅插件)&&PanSouTG频道列表##留空=默认频道,多个用逗号分隔&&PanSou插件列表##留空=默认插件,可选:pansearch/panta/qupansou/hunhepan/jikepan/pan666,多个用逗号分隔",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/pansou.txt",
         "type": 101
     }
 ]
