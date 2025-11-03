@@ -8,5 +8,14 @@
         "env": "123资源社区_Cookie##访问网站需要的Cookie，格式：bbs_token=xxx",
         "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/123ypzysq.txt",
         "type": 101
+    },
+    {
+        "name": "TG搜",
+        "version": 12,
+        "webSite": "https://t.me/s/",
+        "remark": "",
+        "env": "TG搜频道列表##格式 频道名称1@频道id1|频道名称2@频道id2",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/Pan_tgs.js",
+        "type": 101
     }
 ]
