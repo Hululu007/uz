@@ -1,5 +1,5 @@
 //@name:[盘] TG搜
-//@version:13
+//@version:14
 //@webSite:https://t.me/s/
 //@env:TG搜频道列表##格式 频道名称1@频道id1|频道名称2@频道id2
 //@remark:
@@ -352,9 +352,9 @@ async function getTGList(url, isSearchContext = false){
 	                    .replace(/^[^\u4e00-\u9fa5A-Za-z0-9\(\[\{（【《「『〔〖〈﹝［]+/, '')
 	                    .trim();
 
-	                // 1.5) 去掉开头的分类标签，如"电视剧 "、"动漫 "、"电影 "等
+	                // 1.5) 去掉开头的分类标签，如"电视剧 "、"动漫 "、"电影 "、"综艺｜"等
 	                cleanedTitle = cleanedTitle
-	                    .replace(/^(电视剧|动漫|电影|综艺|纪录片|动画)\s+/, '')
+	                    .replace(/^(电视剧|动漫|电影|综艺|纪录片|动画)[\s|｜]+/, '')
 	                    .trim();
 
 	                // --- 关键修改：在去掉括号之前，先从完整标题中提取剧集信息 ---
