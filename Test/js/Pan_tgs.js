@@ -1,5 +1,5 @@
 //@name:[盘] TG搜
-//@version:15
+//@version:16
 //@webSite:https://t.me/s/
 //@env:TG搜频道列表##格式 频道名称1@频道id1|频道名称2@频道id2
 //@remark:
@@ -417,7 +417,8 @@ async function getTGList(url, isSearchContext = false){
             // 注意：先匹配完整词组（如"杜比视界"），再匹配单个词（如"杜比"），避免部分匹配导致残留
             video.vod_name = video.vod_name
                 .replace(/\s*4[Kk]\s*(DV|HDR10|SDR|臻彩|杜比)?\s*(高码率|50帧|10bit)?\s*/g, '')
-                .replace(/\s*(杜比视界|杜比音效|WEB-60fpsMAX|WEB-|DV|HDR10|HDR|SDR|臻彩|杜比|高码率|50帧|25帧|60帧|10bit|10BIT|纯净版|完结|全景声|超高码率|EDR|标码|Vivid|三维菁彩声|txb|源码|剧版)\s*/g, '')
+                .replace(/\s*\d+[pP]\s*/g, '')  // 清理分辨率+p，如 "1080p"、"720P"
+                .replace(/\s*(杜比视界|杜比音效|WEB-60fpsMAX|WEB-|DV|HDR10|HDR|SDR|臻彩|杜比|高码率|50帧|25帧|60帧|10bit|10BIT|纯净版|完结|全景声|超高码率|EDR|标码|Vivid|三维菁彩声|txb|源码|剧版|无台标|ATVP)\s*/g, '')
                 .replace(/\s*——\s*/g, ' ')  // 清理"——"
                 .replace(/\s*\d{4}年?\s*/g, '')  // 清理年份信息，如 "2025" 或 "2025年"
                 .replace(/\s*大小\s*\d+\.?\d*\s*[KMGT]B\s*/g, '')  // 清理文件大小，如 "大小9.32GB"
