@@ -422,9 +422,10 @@ async function getTGList(url, isSearchContext = false){
             // 移除常见的画质、码率、帧率等信息
             // 注意：先匹配完整词组（如"杜比视界"），再匹配单个词（如"杜比"），避免部分匹配导致残留
             video.vod_name = video.vod_name
+                .replace(/\s*\d+\s*\+\s*\d+\s*帧\s*/g, '')  // 清理复合帧率，如 "25+60帧"
                 .replace(/\s*4[Kk]\s*(DV|HDR10|SDR|臻彩|杜比)?\s*(高码率|50帧|10bit)?\s*/g, '')
                 .replace(/\s*\d+[pP]\s*/g, '')  // 清理分辨率+p，如 "1080p"、"720P"
-                .replace(/\s*(杜比视界|杜比音效|WEB-60fpsMAX|WEB-|DV|HDR10|HDR|SDR|臻彩|杜比|高码率|50帧|25帧|60帧|10bit|10BIT|纯净版|完结|全景声|超高码率|EDR|标码|Vivid|三维菁彩声|txb|源码|剧版|无台标|ATVP|IQ|Friday|多国字幕|双语|简中|日语|无损|特别版)\s*/g, '')
+                .replace(/\s*(杜比视界|杜比音效|WEB-60fpsMAX|WEB-|DV|HDR10|HDR|SDR|臻彩|杜比|高码率|中码率|50帧|25帧|60帧|10bit|10BIT|纯净版|完结|全景声|超高码率|EDR|标码|Vivid|三维菁彩声|txb|源码|剧版|无台标|ATVP|IQ|Friday|多国字幕|双语|简中|日语|无损|特别版)\s*/g, '')
                 .replace(/\s*内封[^\s]*\s*/g, '')  // 清理"内封"及其后续内容，如 "内封多国字幕"、"内封简中日"
                 .replace(/\s*——\s*/g, ' ')  // 清理"——"
                 .replace(/\s*\d{4}年?\s*/g, '')  // 清理年份信息，如 "2025" 或 "2025年"
