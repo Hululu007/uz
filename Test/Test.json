@@ -1,11 +1,20 @@
 [
     {
         "name": "🧸玩偶",
-        "version": 2,
+        "version": 3,
         "webSite": "http://wogg.xxooo.cf",
         "remark": "🍃豆儿出品，不属精品！",
-        "codeID": "ibaraBnmpt7k0tHvvQQfGTwTNdnZkx02",
+        "codeID": "cc98jo7ySqcDNF7YpnehDpjEbJ3VUzJF",
         "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/wanou.txt",
+        "type": 101
+    },
+    {
+        "name": "🪵木偶",
+        "version": 1,
+        "webSite": "https://666.666291.xyz",
+        "remark": "🍃豆儿出品，不属精品！",
+        "codeID": "sygRbdkbxPJmlkfhQL8HRNqIwtqcjDR8",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/muou.txt",
         "type": 101
     },
     {
