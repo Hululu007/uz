@@ -5,7 +5,7 @@
         "webSite": "http://wogg.xxooo.cf",
         "remark": "🍃豆儿出品，不属精品！",
         "codeID": "cc98jo7ySqcDNF7YpnehDpjEbJ3VUzJF",
-        "api": "http://192.168.31.27:9527/download/wanou.txt",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/wanou.txt",
         "logo": "https://img.geekie.site/i/2026/01/12/151958.png",
         "type": 101
     },
@@ -15,7 +15,7 @@
         "webSite": "https://666.666291.xyz",
         "remark": "🍃豆儿出品，不属精品！",
         "codeID": "KYLSlWWPbLyvYgfUOW6xcVgP53RBZhMc",
-        "api": "http://192.168.31.27:9527/download/muou.txt",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/muou.txt",
         "logo": "https://img.geekie.site/i/2026/01/12/154603.png",
         "type": 101
     },
@@ -25,7 +25,7 @@
         "webSite": "https://t.me/s/",
         "remark": "",
         "env": "TG搜频道列表##格式 频道名称1@频道id1|频道名称2@频道id2",
-        "api": "http://192.168.31.27:9527/download/Pan_tgs.js",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/Pan_tgs.js",
         "logo": "https://img.geekie.site/i/2026/01/12/145028.png",
         "type": 101
     },

@@ -1,4 +1,4 @@
-//@name:[盘] TG搜
+//@name:TG搜
 //@version:24
 //@webSite:https://t.me/s/
 //@env:TG搜频道列表##格式 频道名称1@频道id1|频道名称2@频道id2
