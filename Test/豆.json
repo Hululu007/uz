@@ -70,5 +70,15 @@
       "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/logo/vod/js/Pan_pansou.txt",
       "logo": "https://img.geekie.site/i/2026/01/12/154212.png",
       "type": 101
+    },
+    {
+      "name": "GD音乐台",
+      "version": 4,
+      "remark": "🍃豆儿出品，不属精品！仅供测试！所有内容均来自GD音乐台 music.gdstudio.xyz",
+      "webSite": "https://music.gdstudio.xyz/",
+      "codeID": "M9nkucZA62rwJZsCkCkvdxuzYlRmmE4G",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/Zhi_gdstudio.txt",
+      "logo": "https://img.geekie.site/i/2026/02/23/220741.png",
+      "type": 101
     }
 ]
