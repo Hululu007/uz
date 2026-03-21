@@ -1,5 +1,15 @@
 [
     {
+        "name": "聚合",
+        "version": 1,
+        "webSite": "https://example.com",
+        "remark": "🍃豆儿出品，不属精品！",
+        "codeID": "9aZuGV6HPO4CnoFpoQtzX7eqo1cizGxm",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/juhe.txt",
+        "logo": "https://img.geekie.site/i/2026/03/21/140844.png",
+        "type": 101
+    },
+    {
         "name": "玩偶",
         "version": 3,
         "webSite": "http://wogg.xxooo.cf",
