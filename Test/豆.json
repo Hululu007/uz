@@ -1,20 +1,20 @@
 [
     {
         "name": "聚合",
-        "version": 1,
+        "version": 2,
         "webSite": "https://example.com",
         "remark": "🍃豆儿出品，不属精品！",
-        "codeID": "9aZuGV6HPO4CnoFpoQtzX7eqo1cizGxm",
+        "codeID": "hJtPKuu390DnC4yzdjOcWtrShAFY9SNT",
         "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/juhe.txt",
         "logo": "https://img.geekie.site/i/2026/03/21/140844.png",
         "type": 101
     },
     {
         "name": "玩偶",
-        "version": 3,
+        "version": 4,
         "webSite": "http://wogg.xxooo.cf",
         "remark": "🍃豆儿出品，不属精品！",
-        "codeID": "cc98jo7ySqcDNF7YpnehDpjEbJ3VUzJF",
+        "codeID": "8ahMn9JYo36y9hCvGILGdNf98aJGWLoI",
         "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/wanou.txt",
         "logo": "https://img.geekie.site/i/2026/01/12/151958.png",
         "type": 101
