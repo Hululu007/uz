@@ -55,16 +55,11 @@ import { cheerio, Crypto, Encrypt, JSONbig } from '../../core/core/uz3lib.js'
 
 // 默认频道列表
 const DEFAULT_CHANNELS = [
-    { name: '123', id: 'zyfb123' },
-    { name: '天翼日更', id: 'tianyirigeng' },
-    { name: '天翼臻影', id: 'tyysypzypd' },
-    { name: '百度', id: 'bdwpzhpd' },
-    { name: '移动', id: 'ydypzyfx' },
-    { name: '夸克百度', id: 'Aliyun_4K_Movies' },
-    { name: '夸克UC', id: 'ucquark' },
-    { name: '夸克电影', id: 'Q_dianying' },
-    { name: '夸克剧集', id: 'Q_dianshiju' },
-    { name: '夸克动漫', id: 'Q_dongman' }
+    { name: '豆儿盘', id: 'douerpan' },
+    { name: '偶豆豆', id: 'odoudouo' },
+    { name: '豆儿123', id: 'zyfb123' },
+    { name: 'LEO资源', id: 'leoziyuan' },
+    { name: '资源宇宙', id: 'tgsearchers6' }
 ]
 
 const appConfig = {
