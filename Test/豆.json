@@ -61,6 +61,26 @@
       "type": 101
     },
     {
+      "name": "剧迷",
+      "version": 1,
+      "webSite": "https://gimy01.co",
+      "remark": "🍃豆儿出品，不属精品！",
+      "codeID": "7usHqk1AMo8p1Hn2r1lNR5uCrdedlviq",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/剧迷.txt",
+      "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/Gimy.png",
+      "type": 101
+    },
+    {
+      "name": "韩小圈",
+      "version": 1,
+      "webSite": "https://hanxiaoquan.hanju.workers.dev",
+      "remark": "🍃豆儿出品，不属精品！",
+      "codeID": "BcgDSJgqke0aKBWbNnCVJUIgDQtofsaX",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/韩小圈.txt",
+      "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/hanxiaoquan.png",
+      "type": 101
+    },
+    {
       "name": "Alist",
       "version": 1,
       "remark": "🍃豆儿出品，不属精品！自行修改自己的AList主页地址",
