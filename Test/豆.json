@@ -81,6 +81,36 @@
       "type": 101
     },
     {
+      "name": "稀饭",
+      "version": 1,
+      "webSite": "https://dm.xifanacg.com",
+      "remark": "🍃豆儿出品，不属精品！",
+      "codeID": "DJK1dnfy8oR7EMg41pJ04kOzc6XCgFtT",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/稀饭.txt",
+      "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/稀饭.png",
+      "type": 101
+    },
+    {
+      "name": "爱动漫",
+      "version": 1,
+      "webSite": "https://ani.girigirilove.com",
+      "remark": "🍃豆儿出品，不属精品！",
+      "codeID": "c0jEExQuXL7zpbi6h6vlyORc5inKG93g",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/爱动漫.txt",
+      "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/爱动漫.png",
+      "type": 101
+    },
+    {
+      "name": "PPnix",
+      "version": 1,
+      "webSite": "https://www.ppnix.com",
+      "remark": "🍃豆儿出品，不属精品！",
+      "codeID": "gBETLxauvcFq51U5DVVgjHbNCW0nrgCc",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/PPnix.txt",
+      "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/PPnix.png",
+      "type": 101
+    },
+    {
       "name": "韩小圈",
       "version": 1,
       "webSite": "https://hanxiaoquan.hanju.workers.dev",
