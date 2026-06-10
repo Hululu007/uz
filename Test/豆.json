@@ -61,6 +61,16 @@
       "type": 101
     },
     {
+      "name": "咖啡",
+      "version": 1,
+      "webSite": "https://kafeizhibo.com",
+      "remark": "🍃豆儿出品，不属精品！",
+      "codeID": "YgvdhfvSFq8alyo0lpwOwnRIVCBF4cPI",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/js/咖啡.txt",
+      "logo": "https://raw.githubusercontent.com/woleigedouer/uz/refs/heads/main/Test/image/咖啡.png",
+      "type": 101
+    },
+    {
       "name": "瓜子",
       "version": 2,
       "webSite": "https://api.w32z7vtd.com",
